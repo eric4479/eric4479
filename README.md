@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning anything I can
 - 💞️ I’m looking to collaborate on helping in more ways
-- 📫 How to reach me DouglasPC.com
+- 📫 How to reach me https://DouglasPC.com
 
 <!---
 eric4479/eric4479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
