@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eric4479
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning anything I can
 - 💞️ I’m looking to collaborate on helping in more ways
